@@ -1,2 +1,3 @@
 # Data.Visualization
-Wednesday Projects 
+My name is Vladimir Socolnic 
+Email: vladimir.socolnic@city.ac.uk
