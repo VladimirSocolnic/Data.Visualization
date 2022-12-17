@@ -1,0 +1,17 @@
+[
+	{
+		"year":2022,
+		"Gender":"Male",
+		"Percent":40
+	},
+	{
+		"year":2010,
+		"Gender":"Female",
+		"Percent":53
+	},
+	{
+		"year":2022,
+		"Gender":"Increase",
+		"Percent":7
+	}
+]

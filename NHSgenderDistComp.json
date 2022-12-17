@@ -1,0 +1,21 @@
+
+[
+	{
+		
+		"Gender":"Male",
+		"Percent":53.5
+	},
+	{
+		
+		"Gender":"Female",
+		"Percent":46.5
+	},
+	{
+		
+		"Gender":"Increase",
+		"Percent":2.7
+	}
+
+
+
+]

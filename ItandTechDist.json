@@ -1,0 +1,145 @@
+[
+	{
+		"year":2010,
+		"Gender":"Male",
+		"Percent":83
+	},
+	{
+		"year":2010,
+		"Gender":"Female",
+		"Percent":17
+	},
+	{
+		"year":2011,
+		"Gender":"Male",
+		"Percent":82
+	},
+	{
+		"year":2011,
+		"Gender":"Female",
+		"Percent":18
+	},
+	{
+		"year":2012,
+		"Gender":"Male",
+		"Percent":81
+	},
+	{
+		"year":2012,
+		"Gender":"Female",
+		"Percent":19
+	},
+	{
+		"year":2013,
+		"Gender":"Male",
+		"Percent":81
+	},
+	{
+		"year":2013,
+		"Gender":"Female",
+		"Percent":19
+	},
+	{
+		"year":2014,
+		"Gender":"Male",
+		"Percent":80
+	},
+	{
+		"year":2014,
+		"Gender":"Female",
+		"Percent":20
+	},
+	{
+		"year":2015,
+		"Gender":"Male",
+		"Percent":79
+	},
+	{
+		"year":2015,
+		"Gender":"Female",
+		"Percent":21
+	},
+	{
+		"year":2016,
+		"Gender":"Male",
+		"Percent":78
+	},
+	{
+		"year":2016,
+		"Gender":"Female",
+		"Percent":22
+	},
+	{
+		"year":2017,
+		"Gender":"Male",
+		"Percent":78
+	},
+	{
+		"year":2017,
+		"Gender":"Female",
+		"Percent":22
+	},
+	{
+		"year":2018,
+		"Gender":"Male",
+		"Percent":79
+	},
+	{
+		"year":2018,
+		"Gender":"Female",
+		"Percent":21
+	},
+
+
+
+
+
+
+
+
+	{
+		"year":2019,
+		"Gender":"Male",
+		"Percent":79
+	},
+	{
+		"year":2019,
+		"Gender":"Female",
+		"Percent":21
+	},
+	{
+		"year":2020,
+		"Gender":"Male",
+		"Percent":80
+	},
+	{
+		"year":2020,
+		"Gender":"Female",
+		"Percent":20
+	},
+
+
+
+
+
+	{
+		"year":2021,
+		"Gender":"Male",
+		"Percent":80
+	},
+	{
+		"year":2021,
+		"Gender":"Female",
+		"Percent":20
+	},
+	{
+		"year":2022,
+		"Gender":"Male",
+		"Percent":81
+	},
+	{
+		"year":2022,
+		"Gender":"Female",
+		"Percent":19
+	}
+]
